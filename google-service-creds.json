@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "taste-tribe-dashboard",
+  "private_key_id": "5a93d86832fa7d4a9e193f0a99b6b2adc30c5d3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMgG1tks7lMa5s\nlH5JAxlgIc9+lHGvGVynlhEWR5t23xGGcVGE3lmRmwfCT58RphyK/uBa0pnHmtO0\njG9/ePxBZ4rcqbcM/9QF0RlMP5e+Jv/H6WjMkhRycFTHZE5+QznJW68/IVxrztQb\nfZ45iL10VvkR3tInEAdm0JInbY8TOTrFET7RovLg+Y9dnBWM746XejhNJCCMyc1l\n53P4lbriQaF9qtHVWl5Unf4Q5FlmMCqlb9wtHViylFLJDf7/6dvLg/q5gXykL8sa\nj8tnByX/32ZInBYxQmOz986Ua8vu0h4p25gHbf+Rp9qD2b1Wk0cp3fF22zZyI524\nL2K9DNvdAgMBAAECggEAXsQ88YQQwIEvVT3S776x6ayBXSUpMX1NRJP0QyDX2FQy\n6NxmbG4lj6YKCG+hRSp3G6pVCYGCpc8HwCk8GhRUwXJcFTnIjAuZk0B8uqrVhNbJ\nvThaykH/m7CWePfwr+4zPy5vnY+2JndoL30c74iAUwNi1HcvZ86zv19z+zV4Ee2k\nTBSrjDBHcuNOCZTbsphAJk7+w3gPeWFrbppqCRk7uWbloNeC7ByQFqmtyA3K0f67\napKPkZq43DF2pWpWTYGjKaM1m6NdrOVABcbirdeaLCEoHHPqb0whB3OvvZg0PzZ/\ns0nNJ9ZEYd+QgNAowhXuIA8SdbOPBXR+oDNG4lXNOQKBgQD8VygoED1u3IH+onik\nxCsCASX21F06Q6eKGkDYW4M8N1FnljExI0Hgc78d/tXvVDxV8ouEe3ywEQVV+VnG\ntYD2wTqJNXL8wfa2l1IEJbQOVHH98j0tTtdtIvFvYtlVbg5UHTMz1eJ7sD8ILVTg\nGwtKY7uDP8WHvZtsDojjbzthewKBgQDPd6nfKjnFM0tWSogGoR3PV9dKKr9sVZFs\nLYI4qCeUAWsidLVCUtkeNikzpD33Kajdb/8lkkjjYEddUfrk5Ev+QAeIN6lWBW7e\nXt6OaxCAE/2uwngBQIBwPVUCASvPtR8sPI7DKXDXwGaGklQHLM7Ghcqb5VYk6QAg\nXBnaPkkchwKBgQDLuNnUrnfKfv/8QdNAwpcuQRsTUZQKrAAhAN0FT6x9+vMfvCPu\n1dYjjY7oeorhc5JamTyGMuQRiUxTgsI2KOb7UDkf+STiZv31n+k5K+9X+lklemJl\np9dIZwOgt59a10V+JyzlVnJJBZt90ItLesn8vtPuPJgO5McL0Bg39d9s7QKBgDow\nGL/TqwJJIa8hFkettpupymMt3CR5V2Ec3nIfj4IuZ6rxSslATU7w59tpDEwfLhJ1\nT/1squ7C2SEuVg0OjtXPhY1J9z9+JJtPxmHxW15gvPzf5CKNwbg5K3d1dqE57nVM\nwsmv/Ms2VksWDWU5xwDdE3dn+iI+C2AIFOQmJgFPAoGBAK7HWltFXHdyc+9wZRjD\nnm5fiReehwV+q4gvEnBb/fKZtMUl9eku6d9P+jolSb3lY3+a88UUNBsXDHpty3n/\nEC0sguNZfkbUDMhOOrqdfhp0wtxoQghw1LDwVrdGNB3/7InqzM7rcEUQobf64g00\nMdcMUjTVqV5ATuYQzXFrmPlB\n-----END PRIVATE KEY-----\n",
+  "client_email": "sprint-dashboard-service@taste-tribe-dashboard.iam.gserviceaccount.com",
+  "client_id": "116290376562867718430",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sprint-dashboard-service%40taste-tribe-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
