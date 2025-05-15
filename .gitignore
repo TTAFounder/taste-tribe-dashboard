@@ -1,0 +1,4 @@
+# Ignore secret keys and environment files
+google-service-creds.json
+.env
+
